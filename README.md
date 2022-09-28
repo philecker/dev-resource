@@ -1,6 +1,6 @@
 # Dev Resource
 
-A collection of some of my favorite and downright awesome development resources.
+A collection of some downright awesome development resources.
 
 ## Coding
 - https://www.30secondsofcode.org/ &mdash; Provides a curated collection of short code snippets for all your development needs.
