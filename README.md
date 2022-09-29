@@ -2,7 +2,7 @@
 
 A collection of some downright awesome development resources.
 
-## Develpoment (Learning/Documentation)
+## Develpoment ( Learning / Documentation )
 - https://www.30secondsofcode.org/ &mdash; Provides a curated collection of short code snippets for all your development needs.
 - https://www.freecodecamp.org/ &mdash; Freecode camp is an extensive open-source online coding Bootcamp.
 - https://css-tricks.com/ &mdash; CSS Tricks is a website that provides awesome CSS tricks that are useful for developers of all skill levels.
