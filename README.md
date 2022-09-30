@@ -1,6 +1,6 @@
 # Dev Resource
 
-A collection of some downright awesome development resources.
+A collection of some downright awesome front-end development resources.
 
 ## Develpoment (Learning/Documentation)
 - https://www.30secondsofcode.org/ &mdash; Provides a curated collection of short code snippets for all your development needs.
@@ -28,6 +28,8 @@ A collection of some downright awesome development resources.
 ## Libraries
 - https://reactjs.org/ &mdash; A JavaScript library for building user interfaces.
 - https://recoiljs.org/ &mdash; A state management library for React.
+- https://mui.com/ &mdash; MUI offers a comprehensive suite of UI tools to help you ship new features faster.
+- https://formik.org/ &mdash; Formik comes with battle-tested solutions for input validation, formatting, masking, arrays, and error handling.
 
 ## Tools
 - https://code.visualstudio.com/ &mdash; Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free.
