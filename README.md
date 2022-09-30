@@ -31,6 +31,9 @@ A collection of some downright awesome front-end development resources.
 - https://mui.com/ &mdash; MUI offers a comprehensive suite of UI tools to help you ship new features faster.
 - https://formik.org/ &mdash; Formik comes with battle-tested solutions for input validation, formatting, masking, arrays, and error handling.
 
+## Podcasts
+- https://changelog.com/podcast &mdash; Conversations with the hackers, leaders, and innovators of the software world.
+
 ## Tools
 - https://code.visualstudio.com/ &mdash; Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free.
 - https://desktop.github.com/ &mdash; Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow.
