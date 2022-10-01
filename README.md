@@ -28,6 +28,7 @@ A collection of some downright awesome front-end development resources.
 ## Libraries
 - https://reactjs.org/ &mdash; A JavaScript library for building user interfaces.
 - https://recoiljs.org/ &mdash; A state management library for React.
+- https://www.typescriptlang.org/ &mdash; TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - https://mui.com/ &mdash; MUI offers a comprehensive suite of UI tools to help you ship new features faster.
 - https://formik.org/ &mdash; Formik comes with battle-tested solutions for input validation, formatting, masking, arrays, and error handling.
 
