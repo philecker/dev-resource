@@ -6,7 +6,7 @@ A collection of some downright awesome front-end development resources.
 - https://github.com/ &mdash; A community where more than 40 million people learn, share, and work together to build software.
 - https://www.reddit.com/r/webdev/ &mdash; A community dedicated to all things web development: both front-end and back-end.
 - https://stackoverflow.com/ &mdash; Find the best answer to your technical question, help others answer theirs.
-- https://dev.to/ &mdash; We're a place where coders share, stay up-to-date and grow their careers.
+- https://dev.to/ &mdash; A place where coders share, stay up-to-date and grow their careers.
 
 ## Develpoment ( Learning / Documentation )
 - https://www.30secondsofcode.org/ &mdash; Provides a curated collection of short code snippets for all your development needs.
