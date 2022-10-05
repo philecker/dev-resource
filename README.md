@@ -19,7 +19,7 @@ A collection of some downright awesome front-end development resources.
 - [Can I Use](https://caniuse.com/) &mdash; Browser support tables for modern web technologies.
 - [web.dev](https://web.dev/) &mdash; Take advantage of the latest modern technologies to build amazing web experiences for everyone.
 
-## Extensions (Chrome)
+## Extensions ( Chrome )
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) &mdash; Adds React debugging tools to the Chrome Developer Tools.
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa/related?hl=en-US) &mdash; Makes JSON easy to read and Open Source.
 ## Inspiration
