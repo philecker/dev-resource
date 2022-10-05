@@ -12,12 +12,12 @@ A collection of some downright awesome front-end development resources.
 - [30 Seconds of Code](https://www.30secondsofcode.org/) &mdash; Provides a curated collection of short code snippets for all your development needs.
 - [freeCodeCamp](https://www.freecodecamp.org/) &mdash; Freecode camp is an extensive open-source online coding Bootcamp.
 - [CSS Tricks](https://css-tricks.com/) &mdash; CSS Tricks is a website that provides awesome CSS tricks that are useful for developers of all skill levels.
-- [Traversy Media](https://www.traversymedia.com/) &mdash; Practical project-based courses that are easy to understand and straight to the point.
 - [JavaScript Info](https://javascript.info/) &mdash; From the basics to advanced topics with simple, but detailed explanations.
 - [MDN](https://developer.mozilla.org/en-US/) &mdash Documenting web technologies, including CSS, HTML, and JavaScript, since 2005.
 - [Dev Docs](https://devdocs.io/) &mdash; DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 - [Can I Use](https://caniuse.com/) &mdash; Browser support tables for modern web technologies.
 - [web.dev](https://web.dev/) &mdash; Take advantage of the latest modern technologies to build amazing web experiences for everyone.
+- [Traversy Media](https://www.traversymedia.com/) &mdash; Practical project-based courses that are easy to understand and straight to the point.
 
 ## Extensions ( Chrome )
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) &mdash; Adds React debugging tools to the Chrome Developer Tools.
