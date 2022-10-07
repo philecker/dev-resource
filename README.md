@@ -38,6 +38,7 @@ A collection of some downright awesome front-end development resources.
 ## Podcasts
 - [Changelog](https://changelog.com/podcast) &mdash; Conversations with the hackers, leaders, and innovators of the software world.
 - [Stack Overflow](https://stackoverflow.blog/podcast/) &mdash; The Stack Overflow podcast is a frank and funny conversation about what it means to work in software and how code is reshaping our world.
+- [Remotely Interesting](https://remotelyinteresting.transistor.fm/) &mdash; a rag-tag group of developers from Netlify here to chat with you about the web and all the things that get wrapped up in it.
 ## Tools
 - [Visual Studio Code](https://code.visualstudio.com/) &mdash; Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free.
 - [Github Desktop](https://desktop.github.com/) &mdash; Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow.
